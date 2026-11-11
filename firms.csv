@@ -1,0 +1,169 @@
+firm,type,tier,domain,pattern,alt_patterns,pattern_confidence,hq,offices,careers_url,aliases,active,notes
+Goldman Sachs,IB,BB,gs.com,first.last,,high,New York,NY; SF; LA; Dallas; SLC; Chicago,,GS;Goldman,yes,Also covers GSAM and PWM
+JPMorgan,IB,BB,jpmorgan.com,first.last,first.m.last;f.last,high,New York,NY; SF; LA; Chicago; Plano,,JPM;J.P. Morgan;JP Morgan;JPMorgan Chase,yes,Also covers Private Bank and Asset Mgmt
+Morgan Stanley,IB,BB,morganstanley.com,first.last,,high,New York,NY; Menlo Park; LA; Chicago,,MS,yes,Also covers MS Wealth Mgmt and MSIM
+Bank of America,IB,BB,bofa.com,first.last,,high,New York,NY; Charlotte; SF; LA; Chicago,,BofA;BAML;Bank of America Securities,yes,
+Citi,IB,BB,citi.com,first.last,,high,New York,NY; SF; LA; Chicago,,Citigroup;Citibank,yes,Also Citi Private Bank
+Barclays,IB,BB,barclays.com,first.last,,high,New York (US),NY; Menlo Park; LA,,,yes,
+Deutsche Bank,IB,BB,db.com,first.last,,high,New York (US),NY; SF,,DB,yes,
+UBS,IB,BB,ubs.com,first.last,,high,New York (US),NY; SF; LA,,UBS Investment Bank,yes,Also UBS Wealth Mgmt
+Wells Fargo,IB,BB,wellsfargo.com,first.last,,high,Charlotte,Charlotte; NY; SF; LA,,Wells Fargo Securities;Wells Fargo Advisors,yes,
+RBC Capital Markets,IB,BB,rbccm.com,first.last,,high,New York (US),NY; SF; LA,,RBC,yes,
+Jefferies,IB,BB,jefferies.com,flast,first.last,high,New York,NY; SF; LA; Chicago,,,yes,
+Evercore,IB,EB,evercore.com,first.last,,high,New York,NY; Menlo Park; LA; Chicago; Houston,,,yes,
+Lazard,IB,EB,lazard.com,first.last,,high,New York,NY; SF; LA; Chicago; Houston,,,yes,
+Centerview Partners,IB,EB,centerview.com,flast,first.last,medium,New York,NY; SF; LA; Palo Alto,,Centerview,yes,
+PJT Partners,IB,EB,pjtpartners.com,first.last,,high,New York,NY; SF; LA; Chicago,,PJT,yes,
+Moelis & Company,IB,EB,moelis.com,first.last,,high,New York,NY; LA; SF; Chicago; Houston,,Moelis,yes,Large LA office
+Perella Weinberg Partners,IB,EB,pwpartners.com,flast,first.last,medium,New York,NY; SF; LA; Houston; Chicago,,PWP;Perella Weinberg,yes,
+Qatalyst Partners,IB,EB,qatalyst.com,flast,first.last;first,low,San Francisco,SF,,Qatalyst,yes,Tech M&A boutique
+Guggenheim Securities,IB,EB,guggenheimpartners.com,first.last,,high,New York,NY; SF; LA; Chicago,,Guggenheim,yes,
+Rothschild & Co,IB,EB,rothschildandco.com,first.last,,high,New York (US),NY; LA; SF; Chicago,,Rothschild,yes,
+LionTree,IB,EB,liontree.com,first.last,first,medium,New York,NY; SF,,,yes,TMT boutique
+Allen & Company,IB,EB,allenco.com,flast,first.last,low,New York,NY,,Allen & Co,yes,Pattern unverified
+Houlihan Lokey,IB,MM,hl.com,flast,first.last,high,Los Angeles,LA (HQ); NY; SF; Chicago; Dallas,,Houlihan;HL,yes,HQ in Century City
+William Blair,IB,MM,williamblair.com,flast,first.last,high,Chicago,Chicago; NY; SF; LA; Boston,,,yes,Also William Blair IM
+Baird,IB,MM,rwbaird.com,flast,first.last,high,Milwaukee,Milwaukee; Chicago; NY; SF; Charlotte,,Robert W. Baird;Baird PWM,yes,Also Baird PWM
+Piper Sandler,IB,MM,psc.com,first.last,f.last,high,Minneapolis,Minneapolis; NY; Chicago; SF; LA,,Piper,yes,
+Raymond James,IB,MM,raymondjames.com,first.last,,high,St. Petersburg FL,Tampa; NY; Chicago; SF,,,yes,Also Raymond James WM
+Stifel,IB,MM,stifel.com,lastf,first.last;flast,low,St. Louis,St. Louis; NY; SF; LA; Baltimore,,Stifel Nicolaus;KBW,yes,Pattern uncertain - verify
+Lincoln International,IB,MM,lincolninternational.com,flast,first.last,medium,Chicago,Chicago; NY; LA; SF; Dallas,,Lincoln,yes,
+Harris Williams,IB,MM,harriswilliams.com,flast,first.last,medium,Richmond,Richmond; SF; Boston; Minneapolis,,,yes,
+Truist Securities,IB,MM,truist.com,first.last,,high,Atlanta,Atlanta; NY; Charlotte,,Truist,yes,
+KeyBanc Capital Markets,IB,MM,key.com,first.last,flast,high,Cleveland,Cleveland; NY; SF; Chicago,,KeyBanc;Key,yes,Pattern confirmed by Hunter 2026-09
+BMO Capital Markets,IB,MM,bmo.com,first.last,,high,Chicago (US),Chicago; NY; SF; Houston,,BMO,yes,
+TD Cowen,IB,MM,cowen.com,first.last,,high,New York,NY; SF; Boston,,Cowen;TD Securities,yes,
+Nomura,IB,MM,nomura.com,first.last,,high,New York (US),NY; SF,,,yes,
+Mizuho,IB,MM,mizuhogroup.com,first.last,,medium,New York (US),NY; SF; LA,,Mizuho Americas;Greenhill,yes,Greenhill now part of Mizuho
+HSBC,IB,MM,hsbc.com,first.last,,high,New York (US),NY; SF,,,yes,
+Macquarie Capital,IB,MM,macquarie.com,first.last,,high,New York (US),NY; SF; LA; Chicago,,Macquarie,yes,
+Cantor Fitzgerald,IB,MM,cantor.com,flast,first.last,medium,New York,NY; LA; SF,,Cantor,yes,
+Oppenheimer & Co,IB,MM,opco.com,first.last,,medium,New York,NY; SF; LA,,Oppenheimer,yes,
+Needham & Company,IB,MM,needhamco.com,flast,first.last,medium,New York,NY; SF; Boston,,Needham,yes,
+Citizens JMP,IB,MM,citizensbank.com,first.last,,medium,Boston,Boston; NY; SF,,Citizens;JMP Securities,yes,
+Wedbush Securities,IB,Regional,wedbush.com,first.last,,medium,Los Angeles,LA (HQ); SF; NY,,Wedbush,yes,LA HQ
+B. Riley Securities,IB,Regional,brileyfin.com,flast,first.last,medium,Los Angeles,LA (HQ); NY,,B Riley;B. Riley Financial,yes,LA HQ
+Imperial Capital,IB,Regional,imperialcapital.com,flast,first.last,medium,Los Angeles,LA (HQ); NY; SF,,,yes,LA HQ
+Intrepid Investment Bankers,IB,Regional,intrepidib.com,flast,first.last,medium,Los Angeles,LA (HQ); Charlotte; Menlo Park,,Intrepid,yes,LA HQ; sub-$500M M&A
+D.A. Davidson,IB,Regional,dadco.com,flast,first.last,medium,Great Falls MT,Denver; Portland; Seattle; NY; Orange County,,DA Davidson,yes,Orange County office
+Janney Montgomery Scott,IB,Regional,janney.com,flast,first.last,medium,Philadelphia,Philadelphia; NY; Boston,,Janney,yes,
+Solomon Partners,IB,MM,solomonpartners.com,first.last,,medium,New York,NY; Chicago,,Solomon,yes,
+Ducera Partners,IB,EB,ducerapartners.com,flast,first.last,medium,New York,NY; LA; SF,,Ducera,yes,Restructuring
+Union Square Advisors,IB,Regional,usadvisors.com,flast,first.last,low,San Francisco,SF; NY,,,yes,Pattern unverified
+Blackstone,PE,BB,blackstone.com,first.last,,high,New York,NY; LA; SF; Houston,,,yes,In tracker under BB
+KKR,PE,BB,kkr.com,first.last,,high,New York,NY; Menlo Park; SF; Houston,,,yes,
+Carlyle,PE,BB,carlyle.com,first.last,,high,Washington DC,DC; NY; SF; LA,,Carlyle Group,yes,
+Apollo Global Management,PE,BB,apollo.com,flast,first.last,medium,New York,NY; LA,,Apollo,yes,
+Ares Management,PE,BB,aresmgmt.com,flast,first.last,medium,Los Angeles,LA (HQ); NY; Chicago,,Ares,yes,LA HQ
+Oaktree Capital Management,AM,AM,oaktreecapital.com,flast,first.last,medium,Los Angeles,LA (HQ); NY,,Oaktree,yes,LA HQ
+BlackRock,AM,AM,blackrock.com,first.last,,high,New York,NY; SF; LA; Princeton; Boston,,,yes,
+Vanguard,AM,AM,vanguard.com,first_last,first.last,high,Malvern PA,Malvern; Charlotte; Scottsdale,,,yes,
+Fidelity Investments,AM,AM,fmr.com,first.last,,high,Boston,Boston; Merrimack; Smithfield; Westlake TX,,Fidelity;Fidelity Asset Management;FMR,yes,In tracker
+Capital Group,AM,AM,capgroup.com,first.last,flast,medium,Los Angeles,LA (HQ); Irvine; SF; NY,,American Funds,yes,LA HQ + Irvine campus
+PIMCO,AM,AM,pimco.com,first.last,,high,Newport Beach,Newport Beach (HQ); NY; Austin,,Pacific Investment Management,yes,Newport Beach HQ - near Irvine
+Wellington Management,AM,AM,wellington.com,flast,first.last,high,Boston,Boston; SF; Chicago,,Wellington,yes,
+T. Rowe Price,AM,AM,troweprice.com,first.last,first_last,high,Baltimore,Baltimore; Owings Mills; NY; SF,,T Rowe;T. Rowe,yes,In tracker
+Franklin Templeton,AM,AM,franklintempleton.com,first.last,,high,San Mateo,San Mateo; NY; Fort Lauderdale,,Franklin;Putnam,yes,
+Invesco,AM,AM,invesco.com,first.last,,high,Atlanta,Atlanta; NY; Houston; Downers Grove,,,yes,
+Neuberger Berman,AM,AM,nb.com,first.last,,high,New York,NY; Chicago; SF; LA,,Neuberger,yes,In tracker
+AllianceBernstein,AM,AM,alliancebernstein.com,first.last,,high,Nashville,Nashville; NY; SF,,AB;Alliance Bernstein;Bernstein,yes,In tracker; also Bernstein PWM
+Nuveen,AM,AM,nuveen.com,first.last,,high,Chicago,Chicago; NY; Charlotte,,TIAA,yes,
+TCW,AM,AM,tcw.com,first.last,flast,medium,Los Angeles,LA (HQ); NY; Boston,,TCW Group,yes,LA HQ
+DoubleLine Capital,AM,AM,doubleline.com,first.last,flast,medium,Tampa,Tampa (HQ); LA,,DoubleLine,yes,Large LA office
+Western Asset Management,AM,AM,westernasset.com,first.last,flast,medium,Pasadena,Pasadena (HQ); NY,,Western Asset;WAMCO,yes,Pasadena HQ
+Dodge & Cox,AM,AM,dodgeandcox.com,flast,first.last,medium,San Francisco,SF,,Dodge and Cox,yes,
+Dimensional Fund Advisors,AM,AM,dimensional.com,first.last,,high,Austin,Austin; Santa Monica; Charlotte,,DFA;Dimensional,yes,Santa Monica office
+Kayne Anderson,AM,AM,kaynecapital.com,flast,first.last,medium,Los Angeles,LA (HQ); Houston; NY,,,yes,LA HQ
+Payden & Rygel,AM,AM,payden.com,flast,first.last,low,Los Angeles,LA (HQ); Boston,,Payden,yes,LA HQ; pattern unverified
+Hotchkis & Wiley,AM,AM,hwcm.com,flast,first.last,low,Los Angeles,LA,,Hotchkis,yes,LA HQ; pattern unverified
+Causeway Capital Management,AM,AM,causewaycap.com,flast,first.last,low,Los Angeles,LA,,Causeway,yes,LA HQ; pattern unverified
+Research Affiliates,AM,AM,rallc.com,first.last,flast,low,Newport Beach,Newport Beach,,,yes,Pattern unverified
+Lord Abbett,AM,AM,lordabbett.com,flast,first.last,medium,Jersey City,Jersey City,,,yes,In tracker
+Northern Trust Asset Management,AM,AM,ntrs.com,first.last,flast,low,Chicago,Chicago; NY; LA,,Northern Trust;NTAM,yes,In tracker; pattern uncertain
+William Blair Investment Management,AM,AM,williamblair.com,flast,first.last,high,Chicago,Chicago,,William Blair IM,yes,In tracker
+MFS Investment Management,AM,AM,mfs.com,flast,first.last,medium,Boston,Boston,,MFS,yes,
+Loomis Sayles,AM,AM,loomissayles.com,flast,first.last,medium,Boston,Boston; SF,,Loomis,yes,
+Janus Henderson,AM,AM,janushenderson.com,first.last,,high,Denver,Denver; NY,,Janus,yes,
+Columbia Threadneedle,AM,AM,columbiathreadneedle.com,first.last,,high,Boston,Boston; NY; Minneapolis,,Columbia,yes,
+Federated Hermes,AM,AM,federatedhermes.com,flast,first.last,medium,Pittsburgh,Pittsburgh; NY,,Federated,yes,
+Artisan Partners,AM,AM,artisanpartners.com,first.last,,medium,Milwaukee,Milwaukee; SF; NY,,Artisan,yes,
+State Street Global Advisors,AM,AM,ssga.com,first_last,first.last,medium,Boston,Boston,,SSGA;State Street,yes,
+Goldman Sachs Asset Management,AM,AM,gs.com,first.last,,high,New York,NY; SLC,,GSAM,yes,Same domain as GS
+J.P. Morgan Asset Management,AM,AM,jpmorgan.com,first.last,,high,New York,NY; Columbus,,JPMAM;JPM Asset Management,yes,Same domain as JPM
+Morgan Stanley Investment Management,AM,AM,morganstanley.com,first.last,,high,New York,NY,,MSIM,yes,Same domain as MS
+Bridgewater Associates,AM,AM,bwater.com,first.last,,high,Westport CT,Westport,,Bridgewater,yes,
+Morgan Stanley Wealth Management,WM,WM,morganstanley.com,first.last,,high,New York,Nationwide; Newport Beach; LA; Irvine,,MSWM;MS Wealth,yes,Same domain as MS
+Merrill,WM,WM,ml.com,first.last,,high,New York,Nationwide; Irvine; Newport Beach; LA,,Merrill Lynch;Merrill Wealth Management,yes,Some advisors use bofa.com
+UBS Wealth Management,WM,WM,ubs.com,first.last,,high,New York (US),Nationwide; Newport Beach; LA,,UBS Global Wealth Management;UBS WM,yes,Same domain as UBS
+J.P. Morgan Private Bank,WM,WM,jpmorgan.com,first.last,,high,New York,Nationwide; LA; Newport Beach,,JPM Private Bank;JPMorgan Private Bank,yes,Same domain as JPM
+Goldman Sachs Private Wealth Management,WM,WM,gs.com,first.last,,high,New York,NY; LA; SF,,GS PWM;Goldman PWM,yes,Same domain as GS
+Wells Fargo Advisors,WM,WM,wellsfargo.com,first.last,,high,St. Louis,Nationwide,,,yes,
+Charles Schwab,WM,WM,schwab.com,first.last,,high,Westlake TX,Westlake; SF; Phoenix; Nationwide,,Schwab,yes,
+Edward Jones,WM,WM,edwardjones.com,first.last,,high,St. Louis,Nationwide,,,yes,
+Raymond James Wealth Management,WM,WM,raymondjames.com,first.last,,high,St. Petersburg FL,Nationwide,,Raymond James Financial Services,yes,Same domain as Raymond James
+Ameriprise Financial,WM,WM,ampf.com,first.last,first.m.last,medium,Minneapolis,Nationwide,,Ameriprise,yes,
+LPL Financial,WM,WM,lpl.com,first.last,,high,San Diego,San Diego (HQ); Fort Mill; Boston,,LPL,yes,San Diego HQ
+Northwestern Mutual,WM,WM,nm.com,first.last,,high,Milwaukee,Nationwide,,,yes,
+Bernstein Private Wealth Management,WM,WM,alliancebernstein.com,first.last,,high,Nashville,NY; LA; SF; Nationwide,,Bernstein PWM,yes,Same domain as AB
+Rockefeller Capital Management,WM,WM,rockco.com,first.last,,medium,New York,NY; LA; SF,,Rockefeller,yes,
+Citi Private Bank,WM,WM,citi.com,first.last,,high,New York,NY; LA; SF,,Citi Wealth,yes,Same domain as Citi
+BNY Wealth,WM,WM,bny.com,first.last,,high,New York,NY; LA; Newport Beach,,BNY Mellon Wealth Management,yes,
+Northern Trust Wealth Management,WM,WM,ntrs.com,first.last,flast,low,Chicago,Chicago; LA; Newport Beach,,,yes,Pattern uncertain
+Brown Brothers Harriman,WM,WM,bbh.com,first.last,,high,New York,NY; Boston,,BBH,yes,
+Bessemer Trust,WM,WM,bessemer.com,first.last,lastf;flast,low,New York,NY; LA; SF,,Bessemer,yes,Pattern unverified
+Wilmington Trust,WM,WM,wilmingtontrust.com,first.last,,medium,Wilmington DE,Wilmington; NY,,,yes,
+Creative Planning,WM,WM,creativeplanning.com,first.last,,medium,Overland Park KS,Nationwide,,,yes,Large RIA
+Fisher Investments,WM,WM,fi.com,first.last,,medium,Plano TX,Plano; Camas WA; Nationwide,,Fisher,yes,
+Mercer Advisors,WM,WM,merceradvisors.com,first.last,,medium,Denver,Nationwide,,Mercer,yes,
+Hightower Advisors,WM,WM,hightoweradvisors.com,first.last,,medium,Chicago,Nationwide,,Hightower,yes,
+Captrust,WM,WM,captrust.com,first.last,,medium,Raleigh,Nationwide,,CAPTRUST,yes,
+Edelman Financial Engines,WM,WM,edelmanfinancialengines.com,first.last,,medium,Santa Clara,Nationwide,,Edelman,yes,
+Aspiriant,WM,WM,aspiriant.com,first.last,,medium,Los Angeles,LA (HQ); SF; Nationwide,,,yes,LA HQ
+Whittier Trust,WM,WM,whittiertrust.com,flast,first.last,low,Pasadena,Pasadena (HQ); Newport Beach; SF,,,yes,SoCal; pattern unverified
+Stifel Wealth Management,WM,WM,stifel.com,lastf,first.last;flast,low,St. Louis,Nationwide,,,yes,Pattern uncertain
+Baird Private Wealth Management,WM,WM,rwbaird.com,flast,first.last,high,Milwaukee,Milwaukee; Regional,,Baird PWM;Baird Private Wealth,yes,In tracker (as Baird PWM)
+RBC Wealth Management,WM,WM,rbc.com,first.last,,high,Minneapolis (US),Nationwide,,,yes,
+Truist Wealth,WM,WM,truist.com,first.last,,high,Atlanta,Southeast,,,yes,
+Hines,RE,RE,hines.com,first.last,,high,Houston,Houston; NY; LA; SF; national,,,yes,In tracker
+Eastdil Secured,RE,RE,eastdilsecured.com,flast,first.last,medium,New York,NY; LA; SF; Chicago,,Eastdil,yes,In tracker; RE investment bank
+CBRE,RE,RE,cbre.com,first.last,,high,Dallas,Dallas; NY; LA; national,,,yes,In tracker
+JLL,RE,RE,jll.com,first.last,,high,Chicago,Chicago; NY; LA; national,,Jones Lang LaSalle,yes,In tracker
+Cushman & Wakefield,RE,RE,cushwake.com,first.last,,high,Chicago,Chicago; NY; LA; national,,Cushman,yes,In tracker
+Tishman Speyer,RE,RE,tishmanspeyer.com,flast,first.last,medium,New York,NY; LA; SF,,Tishman,yes,In tracker
+Related Companies,RE,RE,related.com,first.last,flast,medium,New York,NY; LA; SF,,Related,yes,In tracker
+Brookfield,RE,RE,brookfield.com,first.last,,high,New York,NY; LA; Toronto,,Brookfield Asset Management;Brookfield Properties,yes,In tracker
+TD Securities,IB,MM,tdsecurities.com,first.last,,medium,New York (US),NY; SF; Chicago,,TD Securities (USA),yes,Added from warm leads
+Scotia Capital,IB,MM,scotiabank.com,first.last,,medium,New York (US),NY; Houston,,Scotiabank;Scotia Capital (USA),yes,Added from warm leads
+Bain Capital,PE,BB,baincapital.com,first.last,flast,medium,Boston,Boston; NY; SF,,Bain Capital Markets,yes,Added from warm leads
+BDT & MSD Partners,IB,EB,bdtmsd.com,flast,first.last,high,Chicago,Chicago; NY; Santa Monica,,BDT MSD;MSD Partners,yes,Pattern confirmed by Hunter 2026-09
+Osaic,WM,WM,osaic.com,first.last,,low,Scottsdale,Nationwide,,Osaic Wealth,yes,Retail BD network
+Cetera Financial Group,WM,WM,cetera.com,first.last,,low,El Segundo,Nationwide,,Cetera;Cetera Wealth Services,yes,Retail BD network; El Segundo HQ
+FT Partners,IB,MM,ftpartners.com,flast,first.last,medium,San Francisco,SF (HQ); NY; London,,Financial Technology Partners,yes,Fintech-only IB; large SF analyst class
+Roth Capital Partners,IB,MM,roth.com,flast,first.last,medium,Newport Beach,Newport Beach (HQ); LA; SF; NY,,Roth;Roth MKM,yes,Newport Beach HQ - near Irvine; small-cap
+Cappello Group,IB,Regional,cappellogroup.com,flast,first.last,low,Los Angeles,Santa Monica,,Cappello,no,LA boutique; pattern unverified; DOMAIN HAS NO MX - confirm real email domain before activating
+Greif & Co,IB,Regional,greifco.com,flast,first.last,low,Los Angeles,LA,,Greif,yes,LA MM boutique; pattern unverified
+Kroll,IB,MM,kroll.com,first.last,,high,New York,NY; LA; SF; Chicago,,Duff & Phelps;Kroll Securities,yes,Ex-Duff & Phelps; LA office does MM M&A + valuation
+Stout,IB,MM,stout.com,flast,first.last,medium,Chicago,Chicago; LA; SF; NY,,Stout Risius Ross,yes,LA and SF offices
+Livingstone Partners,IB,Regional,livingstonepartners.com,flast,first.last,low,Chicago,Chicago; LA,,Livingstone,yes,LA office; pattern unverified
+Solganick & Co,IB,Regional,solganick.com,first,flast,low,Los Angeles,LA; SF,,Solganick,yes,Tech M&A boutique; pattern unverified
+Capstone Partners,IB,MM,capstonepartners.com,flast,first.last,medium,Boston,Boston; LA; SF; Chicago,,Capstone,yes,MM; LA + SF offices
+Objective Capital Partners,IB,Regional,objectivecp.com,flast,first.last,low,San Diego,San Diego,,Objective Capital,yes,San Diego MM boutique; pattern unverified
+Salem Partners,IB,Regional,salempartners.com,flast,first.last,low,Los Angeles,LA,,Salem,yes,Media/entertainment IB; pattern unverified
+MUFG,IB,MM,mufgamericas.com,first.last,,high,Los Angeles (Americas),LA; NY; SF,,MUFG Americas;Mitsubishi UFJ;MUFG Securities,yes,Americas HQ in LA
+SMBC,IB,MM,smbcgroup.com,first.last,first_last,medium,New York (US),NY; LA; SF,,SMBC Nikko;Sumitomo Mitsui,yes,LA and SF offices
+CIBC Capital Markets,IB,MM,cibc.com,first.last,,high,Toronto,NY; LA; SF; Chicago,,CIBC,yes,LA + SF offices
+Siebert Williams Shank,IB,Regional,siebertwilliams.com,flast,first.last,low,New York,NY; LA; Oakland,,SWS,yes,Public finance; LA and Oakland offices
+Vista Point Advisors,IB,Regional,vistapointadvisors.com,flast,first.last,low,San Francisco,SF,,Vista Point,yes,SF software M&A boutique; pattern unverified
+Vaquero Capital,IB,Regional,vaquerocapital.com,flast,first.last,low,San Francisco,SF,,Vaquero,no,SF software boutique; pattern unverified; DOMAIN HAS NO MX - confirm real email domain before activating
+Pagemill Partners,IB,Regional,pagemill.com,flast,first.last,low,Palo Alto,Palo Alto,,Pagemill,yes,Tech M&A boutique; pattern unverified
+Architect Partners,IB,Regional,architectpartners.com,first,first.last,low,San Francisco,SF; Palo Alto,,Architect,yes,Crypto/fintech boutique; pattern unverified
+Woodside Capital Partners,IB,Regional,woodsidecap.com,flast,first.last,low,Palo Alto,Palo Alto; London,,Woodside Capital,yes,Tech M&A boutique; pattern unverified
+Code Advisors,IB,Regional,codeadvisors.com,first,first.last,low,San Francisco,SF; NY,,Code,yes,Tech boutique; pattern unverified
+Leerink Partners,IB,MM,leerink.com,first.last,flast,medium,Boston,Boston; SF; NY,,SVB Securities;SVB Leerink,yes,Healthcare IB; SF office
+Cain Brothers,IB,MM,cainbrothers.com,flast,first.last,medium,New York,NY; SF; Chicago,,Cain Brothers (KeyBanc),yes,Healthcare IB; KeyBanc affiliate; SF office
+Raine Group,IB,EB,raine.com,flast,first.last,medium,New York,NY; SF; LA,,Raine,yes,TMT merchant bank; SF + LA
+Nomura Greentech,IB,MM,nomuragreentech.com,first.last,flast,medium,San Francisco,SF; NY,,Greentech Capital,yes,Energy transition IB
+Craig-Hallum,IB,MM,craig-hallum.com,flast,first.last,low,Minneapolis,Minneapolis,,Craig-Hallum Capital Group,yes,Small-cap MM; pattern unverified
+Gryphon Investors,PE,MM,gryphon-inv.com,flast,first.last;firstl,low,San Francisco,"SF (HQ)",,Gryphon,yes,MM PE; pattern unverified
+Rho,IB,Regional,rho.co,first,first.last,low,New York,"NY; SF",,Rho Business Banking,yes,Startup banking/fintech; pattern unverified
+Equitable Advisors,WM,WM,equitable.com,first.last,flast,medium,New York,"Nationwide; Irvine; LA; SF",,Equitable;Equitable Financial;Equitable Advisors LLC;AXA Advisors,yes,Insurance-affiliated advisory; 2027 WM intern program is sophomore/rising-junior friendly
